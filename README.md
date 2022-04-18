@@ -6,7 +6,7 @@ Người đã xem Profiles của tui: ![](https://komarev.com/ghpvc/?username=tr
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trtamgamer)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trtamgamer&show_icons=true&theme=gruvbox)
 
 ---
 
