@@ -1,4 +1,9 @@
-### Hi there 👋
+### Chào mọi người 👋
+Nơi này chưa thông tin về Profiles của tui
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trtamgamer)](https://github.com/anuraghazra/github-readme-stats)
+
+Người đã xem Profiles của tui: ![](https://komarev.com/ghpvc/?username=trtamgamer&color=orange)
 
 <!--
 **trtamgamer/trtamgamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
