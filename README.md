@@ -15,7 +15,7 @@ Thông tin liên hệ:
 - 📫 Liên hệ với tôi qua các Link tôi để ở Dưới:
 <h3 align="left">Kết nối với tôi qua:</h3>
 <p align="left">
-<a href="https://github.com/trtamgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="trtamgamer" height="30" width="40" /></a><a href="https://www.youtube.com/c/trtamgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trtamgamer" height="30" width="40" /></a><a href="https://discord.gg/Tâm Trần#8731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tâm Trần#8731" height="30" width="40" /></a>
+<a href="https://github.com/trtamgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="trtamgamer" height="30" width="40" /></a><a href="https://www.youtube.com/c/trtamgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trtamgamer" height="30" width="40" /></a><a href="https://discordapp.com/users/607056518680018975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tâm Trần#8731" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Ngôn ngữ và Công cụ mà tôi sử dụng:</h3>
