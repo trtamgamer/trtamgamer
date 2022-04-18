@@ -1,3 +1,7 @@
+<p align="center"><img src="https://github.com/trtamgamer/trtamgamer/blob/main/the-garden-of-words-kotonoha-no-niwa.gif" width="640" height="360" />
+
+---
+
 <h1 align="center">Chào mọi người 👋, Tui là Tâm Trần</h1>
 <h3 align="center">Hay còn gọi là Thành viên mới của GitHub</h3>
 
