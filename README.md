@@ -25,9 +25,11 @@ Số người đã xem Profiles của tui:  ![](https://komarev.com/ghpvc/?usern
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trtamgamer&show_icons=true&theme=gruvbox)
 
+
 ---
 
 👏 Cảm ơn đã cho tui mượn nguồn để hoàn thành giới thiệu đoạn mô tả này: [Hoàng Minh Trí](https://github.com/HMT2008/) 
+⏲️ Cập nhật gần nhất: Thứ 2, 18 tháng 4 năm 2022 21:16
 
 
 <!--
