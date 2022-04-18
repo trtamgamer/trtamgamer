@@ -4,9 +4,11 @@
 
 Người đã xem Profiles của tui: ![](https://komarev.com/ghpvc/?username=trtamgamer&color=orange)
 
+---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trtamgamer)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
 
 👏 Cảm ơn đã cho tui mượn nguồn để hoàn thành giới thiệu đoạn mô tả này: [Hoàng Minh Trí](https://github.com/HMT2008/) 
 
