@@ -8,7 +8,6 @@ Số người đã xem Profiles của tui:  <!--aaaaaaaaaaaaaa--> ![](https://ko
 
 Thông tin liên hệ:
 - 🔭 Tôi hiện đang làm việc tại Trường THPT Đào Sơn Tây
-- 🎥 Đăng kí kênh của tôi: [TR Tâm Gamer](https://www.youtube.com/channel/UCK07bQIZ21Zmmg1w2uAIPkA?sub_confirmation=1)
 - 📫 Liên hệ với tôi qua các Link tôi để ở Dưới:
 <h3 align="left">Kết nối với tôi qua:</h3>
 <p align="left">
