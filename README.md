@@ -6,11 +6,11 @@
 <h3 align="center">Hay còn gọi là Thành viên mới của GitHub</h3>
 
 
-Số người đã xem Profiles của tui:  <!--aaaaaaaaaaaaaa--> ![](https://komarev.com/ghpvc/?username=trtamgamer&color=orange&style=flat)
+Số người đã xem Profiles của tui:  ![](https://komarev.com/ghpvc/?username=trtamgamer&color=orange&style=flat)
 
 ---
 
-Thông tin liên hệ:
+**Thông tin liên hệ:**
 - 🔭 Tôi hiện đang làm việc tại Trường THPT Đào Sơn Tây
 - 📫 Liên hệ với tôi qua các Link tôi để ở Dưới:
 <h3 align="left">Kết nối với tôi qua:</h3>
