@@ -6,6 +6,8 @@
 <h3 align="center">Hay còn gọi là Thành viên mới của GitHub</h3>
 
 
+
+
 Số người đã xem Profiles của tui:  ![](https://komarev.com/ghpvc/?username=trtamgamer&color=orange&style=flat)
 
 ---
@@ -28,8 +30,8 @@ Số người đã xem Profiles của tui:  ![](https://komarev.com/ghpvc/?usern
 
 ---
 
-👏 Cảm ơn đã cho tui mượn nguồn để hoàn thành giới thiệu đoạn mô tả này: [Hoàng Minh Trí](https://github.com/HMT2008/) 
-⏲️ Cập nhật gần nhất: Thứ 2, 18 tháng 4 năm 2022 21:16
+- 👏 Cảm ơn đã cho tui mượn nguồn để hoàn thành giới thiệu đoạn mô tả này: [Hoàng Minh Trí](https://github.com/HMT2008/) 
+- ⏲️ Cập nhật gần nhất: Thứ 2, 18 tháng 4 năm 2022 21:25
 
 
 <!--
