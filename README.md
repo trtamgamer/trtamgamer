@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">Chào mọi người 👋, Tui là Tâm Trần</h1>
+<h1 align="center">Chào mọi người 👋, Tui là Tâm Trần 😊</h1>
 <h3 align="center">Hay còn gọi là Thành viên mới của GitHub</h3>
 
 
@@ -31,7 +31,7 @@ Số người đã xem Profiles của tui:  ![](https://komarev.com/ghpvc/?usern
 ---
 
 - 👏 Cảm ơn đã cho tui mượn nguồn để hoàn thành giới thiệu đoạn mô tả này: [Hoàng Minh Trí](https://github.com/HMT2008/) 
-- ⏲️ Cập nhật gần nhất: Thứ 2, 18 tháng 4 năm 2022 21:25
+- ⏲️ Cập nhật gần nhất: Thứ 2, 25 tháng 7 năm 2022 19:00
 
 
 <!--
