@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">Chào mọi người 👋, Tui là Trần Tâm 😊</h1>
+<h1 align="center">Chào mọi người 👋, Tui là Tâm 😊</h1>
 <h3 align="center">Hay còn gọi là Thành viên mới của GitHub</h3>
 
 
