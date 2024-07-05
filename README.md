@@ -31,7 +31,7 @@ Số người đã xem Profiles của tui:  ![](https://komarev.com/ghpvc/?usern
 ---
 
 - 👏 Cảm ơn đã cho tui mượn nguồn để hoàn thành giới thiệu đoạn mô tả này: [Hoàng Minh Trí](https://github.com/HMT2008/) 
-- ⏲️ Cập nhật gần nhất: Thứ 4, 27 tháng 7 năm 2022 18:45
+- ⏲️ Cập nhật gần nhất: Thứ 6, 5 tháng 7 năm 2024 11:21
 
 
 <!--
