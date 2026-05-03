@@ -18,9 +18,10 @@
 - 📫 Liên hệ với tui qua các link bên dưới:
 
 ### Kết nối với tui qua:
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40">](https://github.com/trtamgamer)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40">](https://www.youtube.com/c/trtamgamer)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40">](https://discordapp.com/users/607056518680018975)
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="38">](https://github.com/trtamgamer)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="38">](https://www.youtube.com/c/trtamgamer)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="38">](https://discordapp.com/users/607056518680018975)
 
 ---
 
