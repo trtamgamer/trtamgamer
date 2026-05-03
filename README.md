@@ -5,7 +5,7 @@
 <h1 align="center">Chào mọi người 👋, Tui là Tâm 😊</h1>
 <h3 align="center">Hay còn gọi là Thành viên đã tham gia lâu năm của GitHub</h3>
 
-<p align="center">
+<p align="left">
   Số người đã xem Profiles của tui:<br>
   <img src="https://komarev.com/ghpvc/?username=trtamgamer&color=orange&style=flat">
 </p>
