@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Chào mọi người 👋, Tui là Tâm 😊</h1>
-<h3 align="center">Hay còn gọi là Thành viên đã tham gia lâu năm của GitHub</h3>
+<h3 align="center">Hay còn gọi là Thành viên đã tham gia lâu năm của GitHub.</h3>
 
 <p align="left">
   👀 Số người đã xem Profiles của tui:
@@ -14,7 +14,7 @@
 
 ## 📌 Thông tin liên hệ:
 
-- 🔭 Tui hiện đang học tập tại FPT Polytechnic
+- 🔭 Tui đã học tập tại FPT Polytechnic
 - 📫 Liên hệ với tui qua các link bên dưới:
 
 ### Kết nối với tui qua:
@@ -25,4 +25,4 @@
 
 ---
 - 👏 Cảm ơn đã ghé profile của tui!
-- ⏲️ Cập nhật gần nhất: CN, 03 tháng 05 năm 2026 12:24
+- ⏲️ Cập nhật gần nhất: CN, 03 tháng 05 năm 2026 12:25.
