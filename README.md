@@ -18,17 +18,7 @@ Số người đã xem Profiles của tui:  ![](https://komarev.com/ghpvc/?usern
 <h3 align="left">Kết nối với tui qua:</h3>
 
 <p align="left">
-  <a href="https://github.com/trtamgamer" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="30" />
-  </a>
-
-  <a href="https://www.youtube.com/c/trtamgamer" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="30" />
-  </a>
-
-  <a href="https://discordapp.com/users/607056518680018975" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="30" />
-  </a>
+<a href="https://github.com/trtamgamer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="30"></a><a href="https://www.youtube.com/c/trtamgamer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="30"></a><a href="https://discordapp.com/users/607056518680018975" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="30"></a>
 </p>
 ---
 
