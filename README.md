@@ -6,8 +6,7 @@
 <h3 align="center">Hay còn gọi là Thành viên đã tham gia lâu năm của GitHub</h3>
 
 <p align="left">
-  Số người đã xem Profiles của tui:<br>
-  <img src="https://komarev.com/ghpvc/?username=trtamgamer&color=orange&style=flat">
+  Số người đã xem Profiles của tui:<br> <img src="https://komarev.com/ghpvc/?username=trtamgamer&color=orange&style=flat">
 </p>
 
 ---
@@ -24,16 +23,5 @@
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="38">](https://discordapp.com/users/607056518680018975)
 
 ---
-
-## 🌦️ Thời tiết hôm nay
-
-![Weather](https://weather-icon.journeyad.repl.co/@HoChiMinh?v=1)
-
-## ⏰ Trạng thái
-
-🕒 GMT+7 | Việt Nam  
-📅 Updated daily
-
---
 - 👏 Cảm ơn đã ghé profile của tui!
 - ⏲️ Cập nhật gần nhất: CN, 03 tháng 05 năm 2026 12:02
