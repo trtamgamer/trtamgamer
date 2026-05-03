@@ -25,9 +25,14 @@
 
 ---
 
-## Thời tiết hiện tại:
+## 🌦️ Thời tiết hôm nay
 
 ![Weather](https://wttr.in/Ho_Chi_Minh.png)
+
+## ⏰ Trạng thái
+
+🕒 GMT+7 | Việt Nam  
+📅 Updated daily
 
 --
 - 👏 Cảm ơn đã ghé profile của tui!
