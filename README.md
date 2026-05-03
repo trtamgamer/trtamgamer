@@ -16,14 +16,20 @@ Số người đã xem Profiles của tui:  ![](https://komarev.com/ghpvc/?usern
 - 🔭 Tui hiện đang học tập tại FPT Polytechnic
 - 📫 Liên hệ với tui qua các Link tui để ở dưới:
 <h3 align="left">Kết nối với tui qua:</h3>
-<h3 align="left">Kết nối với tui qua:</h3>
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: none;"><a href="https://github.com/trtamgamer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a></td>
-    <td style="border: none;"><a href="https://www.youtube.com/c/trtamgamer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a></td>
-    <td style="border: none;"><a href="https://discordapp.com/users/607056518680018975" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a></td>
-  </tr>
-</table>
+
+<p align="left">
+  <a href="https://github.com/trtamgamer" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="30" />
+  </a>
+
+  <a href="https://www.youtube.com/c/trtamgamer" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="30" />
+  </a>
+
+  <a href="https://discordapp.com/users/607056518680018975" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="30" />
+  </a>
+</p>
 ---
 
 - 👏 Cảm ơn đã cho tui mượn nguồn để hoàn thành giới thiệu đoạn mô tả này:
