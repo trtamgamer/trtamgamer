@@ -17,13 +17,10 @@
 - 🔭 Tui hiện đang học tập tại FPT Polytechnic
 - 📫 Liên hệ với tui qua các link bên dưới:
 
-<p align="left">
-  <a href="https://github.com/trtamgamer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"></a>&nbsp;&nbsp;
-  
-  <a href="https://www.youtube.com/c/trtamgamer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"></a>&nbsp;&nbsp;
-  
-  <a href="https://discordapp.com/users/607056518680018975" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40"></a>
-</p>
+### Kết nối với tui qua:
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40">](https://github.com/trtamgamer)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40">](https://www.youtube.com/c/trtamgamer)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40">](https://discordapp.com/users/607056518680018975)
 
 ---
 
