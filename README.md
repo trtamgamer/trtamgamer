@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Chào mọi người 👋, Tui là Tâm 😊</h1>
-<h3 align="center">Hay còn gọi là Thành viên mới của GitHub</h3>
+<h3 align="center">Hay còn gọi là Thành viên đã tham gia lâu năm của GitHub</h3>
 
 <p align="center">
   Số người đã xem Profiles của tui:<br>
@@ -26,4 +26,4 @@
 ---
 
 - 👏 Cảm ơn đã ghé profile của tui!
-- ⏲️ Cập nhật gần nhất: CN, 03 tháng 05 năm 2026 11:51
+- ⏲️ Cập nhật gần nhất: CN, 03 tháng 05 năm 2026 12:02
