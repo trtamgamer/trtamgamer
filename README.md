@@ -6,7 +6,8 @@
 <h3 align="center">Hay còn gọi là Thành viên đã tham gia lâu năm của GitHub</h3>
 
 <p align="left">
-  Số người đã xem Profiles của tui: <img src="https://komarev.com/ghpvc/?username=trtamgamer&color=orange&style=flat">
+  👀 Số người đã xem Profiles của tui:
+  <img src="https://komarev.com/ghpvc/?username=trtamgamer&color=orange&style=flat" align="center" />
 </p>
 
 ---
