@@ -27,7 +27,7 @@
 
 ## 🌦️ Thời tiết hôm nay
 
-![Weather](https://img.shields.io/badge/Weather-HCM%2031°C%20Sunny-orange)
+![Weather](https://weather-icon.journeyad.repl.co/@HoChiMinh?v=1)
 
 ## ⏰ Trạng thái
 
