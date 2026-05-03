@@ -25,5 +25,10 @@
 
 ---
 
+## Thời tiết hiện tại:
+
+![Weather](https://wttr.in/Ho_Chi_Minh.png)
+
+--
 - 👏 Cảm ơn đã ghé profile của tui!
 - ⏲️ Cập nhật gần nhất: CN, 03 tháng 05 năm 2026 12:02
